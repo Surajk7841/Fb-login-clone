@@ -1,0 +1,60 @@
+ p{
+    text-align: center ;
+    color: black;
+    font-family: poppins;
+}
+
+.logIn{
+text-align: center;
+    margin: auto;
+    border: 1px solid rgb(69, 69, 69);
+    border-radius:5px ;
+    width: 400px;
+    height: 300px;
+    box-shadow: 5px 5px 5px 5px;
+}
+input{
+    width: 350px;
+    height: 30px;
+    border: 1px solid rgb(60, 58, 58);
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+.submit{
+    background-color: rgb(64, 97, 242);
+    color: white;
+    font-family: poppins;
+    
+}
+a{
+    font-family: poppins;
+    text-decoration: none;
+}
+*{
+    background-color: rgb(142, 218, 248);
+}
+.create{
+    background-color: green;
+    color: white;
+    font-family: poppins;
+}
+img{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#email{
+    margin-top: 10px;
+    /* padding-top: 5px; */
+}
+:hover.submit{
+    background-color: blue;
+}
+:hover.create{
+    background-color: rgb(5, 245, 5);
+}
+:hover.forget{
+    color: rgb(6, 6, 246);
+}
